@@ -1,2 +1,2 @@
 # GDC
-Motor controller for grill drive.
+Arduino Nano based motor controller for grill drive.
