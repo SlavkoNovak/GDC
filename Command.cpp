@@ -11,9 +11,9 @@
 
 namespace eSeN
 {
-	namespace PMicro
+	namespace GDC
 	{
-		namespace PMicroTB
+		namespace Util
 		{
 			Command::Command(const char *commandStr) : error(0), operation(0), argument(0)
 			{

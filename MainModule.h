@@ -10,7 +10,7 @@
 #include "config.h"
 	
 using namespace uHDL;
-using namespace eSeN::PMicro::PMicroTB;
+using namespace eSeN::GDC::Util;
 
 //Main module -->
 uMODULE(GDC)

@@ -22,9 +22,9 @@
 
 namespace eSeN
 {
-	namespace PMicro
+	namespace GDC
 	{
-		namespace PMicroTB
+		namespace Util
 		{
 			class Command
 			{
