@@ -1,6 +1,6 @@
 /*
   config.h
-  GDC v0.1 by Slavko Novak [slavko.novak.esen@gmail.com], July 2015
+  GDC v0.1 by Slavko Novak [slavko.novak.esen@gmail.com], September 2015
   License: LGPL
 */
 
