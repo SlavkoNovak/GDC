@@ -58,16 +58,16 @@ namespace eSeN
 								
 				if(0 == error)
 				{
-          OP = this->operation;
-          argument = this->argument;
+        				OP = this->operation;
+        				argument = this->argument;
 				}
 				else
 				{
-          char tmp[10];
-				  Serial.print("ERROR: ");
-				  Serial.println(itoa(this->error, tmp, 10));
-          OP = -1;
-          argument = 0;
+        				char tmp[10];
+					Serial.print("ERROR: ");
+					Serial.println(itoa(this->error, tmp, 10));
+        				OP = -1;
+        				argument = 0;
 				}
 			}
 			
