@@ -31,7 +31,7 @@ namespace eSeN
 			private:
 				int error;
 				int operation;
-        unsigned int argument;
+        			unsigned int argument;
 				char cmd[20];
 				
 				void setOperation(const char *);
