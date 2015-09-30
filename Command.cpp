@@ -95,10 +95,10 @@ namespace eSeN
 				{
 					this->operation = OPR_CCW;
 				}
-        else if(strstr(oprUpper, "MANUAL"))
-        {
-          this->operation = OPR_MANUAL;
-        }
+        			else if(strstr(oprUpper, "MANUAL"))
+        			{
+        				this->operation = OPR_MANUAL;
+        			}
 				else
 				{
 					this->operation = OPR_INVALID;
