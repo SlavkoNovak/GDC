@@ -1,0 +1,21 @@
+D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\GDC.cpp.o: \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\GDC.cpp \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/arduino.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/binary.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/WCharacter.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/WString.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/HardwareSerial.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/Stream.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/Print.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/Printable.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/USBAPI.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\variants\eightanaloginputs/pins_arduino.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\variants\eightanaloginputs/../standard/pins_arduino.h \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\config.h \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\uHDL.h \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\uHDL_Primitives.h \
+ D:\Embed\arduino-1.6.5\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\Command.h \
+ D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\MainModule.h \
+ C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\ 14.0\Common7\IDE\Extensions\rkdixaen.4x4\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
