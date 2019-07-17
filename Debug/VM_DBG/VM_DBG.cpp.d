@@ -1,6 +1,6 @@
-C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\Command.cpp.o: \
- C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\Command.cpp \
- C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\Command.h \
+C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Debug\VM_DBG\VM_DBG.cpp.o: \
+ c:\program\ files\ (x86)\microsoft\ visual\ studio\2017\community\common7\ide\extensions\fgermkql.t3l\Micro\ Platforms\default\debuggers\VM_DBG\VM_DBG.cpp \
+ c:\program\ files\ (x86)\microsoft\ visual\ studio\2017\community\common7\ide\extensions\fgermkql.t3l\Micro\ Platforms\default\debuggers\VM_DBG\VM_DBG.h \
  C:\Embed\arduino-1.8.5\arduino-1.8.5\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Embed\arduino-1.8.5\arduino-1.8.5\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Embed\arduino-1.8.5\arduino-1.8.5\hardware\arduino\avr\cores\arduino/WCharacter.h \

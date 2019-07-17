@@ -1,3 +1,3 @@
-D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.cpp.o: \
- D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.cpp \
- D:\Users\snovak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.h
+C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.cpp.o: \
+ C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.cpp \
+ C:\Users\s.novak\AppData\Local\Temp\VMBuilds\GDC\nano_atmega328\Release\uHDL.h
